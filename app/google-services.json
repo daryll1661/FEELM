@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414685249562",
+    "project_id": "daryll-s-hub",
+    "storage_bucket": "daryll-s-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414685249562:android:f683b97e85894b14ce91a3",
+        "android_client_info": {
+          "package_name": "com.example.spl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLtCpL70YHFnt1waTpMwDtXWkbcgRbpUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
